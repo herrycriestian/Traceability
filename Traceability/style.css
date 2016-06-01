@@ -1,0 +1,116 @@
+body{
+    background:#5C430C;
+    font-family: sans-serif;
+}
+#mainwrapper{
+    width: 540px;
+    height: 280px;
+    background: #fff;
+    margin: 150px auto 100px auto;
+    color:#CCAE2B;
+}
+#header{
+    height: 35px;
+    width: 520px;
+    text-align: center;
+    font-size: 15pt;
+    padding-top:20px;
+}
+#bawah{
+    height: 100px;
+    width: 520px;
+    
+}
+.masuk{
+    width: 300px;
+    height:30px;
+    margin-top:1px;
+    margin-left: 39px;
+    font-size: 12pt;
+    border: 1px solid #CCAE2B;
+    padding-left:10px;
+    color:#CCAE2B;
+}
+.masuk:focus{
+    width: 300px;
+    height:30px;
+    margin-top:px;
+    margin-left: 39px;
+    font-size: 12pt;
+    padding-left:10px;
+    color:#0A0A09; /*warna ketik tulisan*/
+    outline: none;
+    box-shadow: 0 0 5px #CCAE2B;
+}
+ 
+#tombol{
+    width: 320px;
+    height:40px;
+    margin-top:20px;
+    margin-left:30px;
+    background: #CCAE2B;
+    border:none;
+    color:#fff;
+    font-size: 14pt;
+    outline:none;
+}
+
+#tombol_konten{
+    width: 120px;
+    height:30px;
+    background: #CCAE2B;
+    border:none;
+    color:#fff;
+    font-size: 11pt;
+    outline:none;
+    margin-left: 30px;
+
+}
+
+#konten_atas{
+	width: 450px;
+    height: 200px;
+    background: #663300;
+    margin: 20px auto 2px auto;
+    color:#F2E4EF;
+	padding-bottom: 100px;
+	
+}
+
+.inputdata{
+    width: 200px;
+    height:30px;
+    margin-top:8px;
+    margin-left: 19px;
+    font-size: 12pt;
+    border: 1px solid #CCAE2B;
+    padding-left:10px;
+    color:#CCAE2B;
+}
+
+.inputdata:focus{
+    width: 200px;
+    height:30px;
+    margin-top:px;
+    margin-left: 19px;
+    font-size: 12pt;
+    padding-left:10px;
+    color:#0A0A09; /*warna ketik tulisan*/
+    outline: none;
+    box-shadow: 0 0 5px #CCAE2B;
+}
+
+#konten_menu{
+	margin-left:35px;
+	height: 25px;
+    width: 520px;
+    font-size: 15pt;
+    padding-top:10px;
+	
+}
+
+#errmsg{
+    padding-bottom: 40px;
+
+}
+
